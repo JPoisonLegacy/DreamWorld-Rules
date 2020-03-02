@@ -6,5 +6,11 @@
 
 ## Rules
 
+-No spamming
+-No sexyzm
+-No hack/toolbox
+-No needless tag anyone
+-Don't grief my server
+-Be friendly toward our comunities
 
-[Test](google.com)
+**----<<<<Just be a Good Person>>>>----**
