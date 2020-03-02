@@ -6,11 +6,11 @@
 
 ## Rules
 
--No spamming
--No sexyzm
--No hack/toolbox
--No needless tag anyone
--Don't grief my server
--Be friendly toward our comunities
+- No spamming
+- No sexyzm
+- No hack/toolbox
+- No needless tag anyone
+- Don't grief my server
+- Be friendly toward our comunities
 
-**----<<<<Just be a Good Person>>>>----**
+**----<<<< Just be a Good Person >>>>----**
