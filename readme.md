@@ -16,7 +16,7 @@
 **----<<<< Just be a Good Person >>>>----**
 
 
-       ## Ranks
+## Ranks
 
           Owner
             |
