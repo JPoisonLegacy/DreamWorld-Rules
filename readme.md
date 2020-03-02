@@ -7,4 +7,4 @@
 ## Rules
 
 
-[![Test]](www.google.com)
+[Test](google.com)
