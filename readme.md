@@ -16,8 +16,8 @@
 **----<<<< Just be a Good Person >>>>----**
 
 
-
        ## Ranks
+
           Owner
             |
          Co-Owner
