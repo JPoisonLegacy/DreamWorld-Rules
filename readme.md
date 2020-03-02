@@ -18,7 +18,7 @@
 ###### More
 
 Whatsapp|Discord
-----------------
+------|-----
 None|None
 
 
