@@ -15,6 +15,12 @@
 
 **----<<<< Just be a Good Person >>>>----**
 
+###### More
+
+Whatsapp|Discord
+----------------
+None|None
+
 
 ## Ranks
 
