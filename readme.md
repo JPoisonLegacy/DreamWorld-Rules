@@ -14,3 +14,21 @@
 - Be friendly toward our comunities
 
 **----<<<< Just be a Good Person >>>>----**
+
+
+          Owner
+            |
+         Co-Owner
+            |
+        ——————————
+       |    |     |
+     Admin  |  Moderator
+            |
+       Lead-Builder
+            |
+          Builder
+            |
+            |————————————————
+       Special-Guest         |
+            |              Helper
+          Guest
