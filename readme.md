@@ -42,4 +42,4 @@ Discord|Whatsapp
           Guest
 
 
-[Malaysia Language](.)
+[Malaysia Language](https://github.com/JPoisonLegacy/DreamWorld-Malaysia/tree/master)
