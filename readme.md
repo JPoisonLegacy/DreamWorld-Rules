@@ -21,6 +21,7 @@ Discord|Whatsapp
 ------|-----
 [![Discord](https://github.com/JPoisonLegacy/hub-settings/blob/master/images/discord.jpg)](https://discord.gg/ReG8Z57)|[![Whatsapp](https://github.com/JPoisonLegacy/hub-settings/blob/master/images/whatsapp.jpg)](https://chat.whatsapp.com/FRl5TP4rYrI9F7ihhUzmYF)
 
+[OPEN MINECRAFT](minecraft://?addExternalServer=%C2%A76%C2%A7l§bDream§aWorld|ms.dreamworld.meru.ml:19872)
 
 ## Ranks
 
